@@ -1,0 +1,47 @@
+Player
+    Camera
+    Movement
+        Plain Movement
+        Jumping
+            -Fix Idle Jump
+            -Fix Hit Detection
+        Rolling     
+        Animations 
+            -Idle
+            -Walk
+            -Run
+            -Jump 3-step
+            -Rolling
+            -Attack
+
+    Combat
+        -hit detection
+        -HP hit on Enemies
+    Model
+        -Rig
+        -Animations
+
+Enemies
+    AI
+        - Combat
+        - Phase System
+        - Movement
+
+    Models
+        - Rigs
+        - Animations
+            -Idle
+            -Walk
+            -Run
+            -Attack
+
+
+World
+    World Map
+    Starting Area
+    Area for each monster
+    Assets
+        -Rocks
+        -Crystals
+        -Grass
+        -Roots
