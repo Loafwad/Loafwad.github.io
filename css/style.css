@@ -42,7 +42,7 @@ img {
     -webkit-border-radius: 5px;
 }
 
-.work__centerimage {grid-column: 8ch auto; padding: 1.5%}
+.work__centerimage {grid-column: 8ch auto; padding: 1.5%; border-radius: 20px}
 
 .secsmall{background:#0F1626;border-radius:5px;box-shadow:5px 5px #000;color:#F5F5F5;margin:2rem ;overflow:hidden;}
 
